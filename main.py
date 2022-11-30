@@ -1,7 +1,7 @@
 print("Cosmic calculator")
 print("*************")
 print()
-print("chose from below options")
+print("choose from below options")
 print("1. Addition")
 print("2. Subtraction")
 print("3. Multiplication")
